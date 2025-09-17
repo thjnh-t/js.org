@@ -1099,6 +1099,7 @@ var cnames_active = {
   "filebokz": "fivefifteen.github.io/filebokz",
   "filejack": "cname.vercel-dns.com", // noCF
   "filer": "filerjs.github.io/filer",
+  "coursesmartEdu": "courseedusmart.vercel.app",
   "fill100": "matteobruni.github.io/fill100",
   "filter": "mg98.github.io/filter.js",
   "finance": "financejs.github.io/finance.js",
