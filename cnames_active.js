@@ -1099,7 +1099,6 @@ var cnames_active = {
   "filebokz": "fivefifteen.github.io/filebokz",
   "filejack": "cname.vercel-dns.com", // noCF
   "filer": "filerjs.github.io/filer",
-  "coursesmartEdu": "courseedusmart.vercel.app",
   "fill100": "matteobruni.github.io/fill100",
   "filter": "mg98.github.io/filter.js",
   "finance": "financejs.github.io/finance.js",
@@ -3627,7 +3626,8 @@ var cnames_active = {
   "zyh": "zyh-chopper.github.io/zyh",
   "zykj": "cname.vercel-dns.com", // noCF
   "zyx": "zyx.alwaysdata.net",
-  "zyy": "zyyou.github.io/notes"
+  "zyy": "zyyou.github.io/notes",
+  "coursesmartEdu": "courseedusmart.vercel.app",
   /*
    * please don't add your subdomain records down here!
    * insert them in alphabetical order to help reduce merge conflicts.
